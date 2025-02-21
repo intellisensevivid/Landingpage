@@ -1063,7 +1063,7 @@ import { FaArrowRight, FaRocket, FaCheckCircle, FaUsers, FaUserTie, FaLightbulb,
                       variants={ScrollRevealVariants}
                  
                  className='text-neutral-400 md:text-[22px] text-[15px] md:mb-[50px] mb-[30px]'>Get exclusive updates, industry insights, and special offers delivered straight to your inbox.
-                Subscribe now for the latest news and trends in <span className='font-bold text-white'>Bematron!</span></motion.h3>
+                Subscribe now for the latest news and trends in <span className='font-bold text-white'>DEX!</span></motion.h3>
 
                 <span>
                    <input type="text" name="" id="" className='md:h-[50px] h-[40px] md:w-[400px] border-none outline-none p-2' placeholder='Your Email Address' required/> &nbsp; 
