@@ -1,0 +1,27 @@
+.bg-custom-image{
+ background-color: rgba(0, 0, 0, 0.7);
+ background-blend-mode: darken;
+}
+
+.bg-custom-image1 {
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: darken; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.section-2-container:hover  h2{
+    color: #e4dede;
+}
+
+.section-2-container:hover{
+    background-color: black;
+}
+
+.section-2-container:hover img{
+    border-radius: 50%;
+    transition: all linear 0.12s;
+    background: rgb(238, 196, 28);
+    color: #daa913;
+}

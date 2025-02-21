@@ -1,0 +1,7 @@
+.contactbg{
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient();
+}

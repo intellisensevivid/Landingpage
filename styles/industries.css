@@ -1,0 +1,28 @@
+.industriesbg{
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+.manufacturingbg,
+.logisticsbg,
+.hitechbg,
+.healthcarebg,
+.educationbg,
+.mediabg,
+.fintech,
+.travelbg,
+.miningbg,
+.realestatebg,
+.ecommercebg,
+.utilities{
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: darken; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
